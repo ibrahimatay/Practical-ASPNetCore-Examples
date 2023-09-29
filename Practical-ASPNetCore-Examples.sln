@@ -2,9 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core-wcf", "core-wcf", "{5B46187F-443F-479C-AF31-2188297047D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "server\server.csproj", "{98498667-78B5-4917-8970-5B253B1B4782}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "core-wcf\server\server.csproj", "{98498667-78B5-4917-8970-5B253B1B4782}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{0D51A6FF-6C02-4F7B-9A1D-81DA5CE19F7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "core-wcf\client\client.csproj", "{0D51A6FF-6C02-4F7B-9A1D-81DA5CE19F7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
